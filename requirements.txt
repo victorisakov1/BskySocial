@@ -1,0 +1,6 @@
+jupyter
+atproto
+replicate
+python-dotenv
+pandas
+openpyxl
